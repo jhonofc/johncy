@@ -1,17 +1,36 @@
 <p align="center">
-<img src="https://camo.githubusercontent.com/5ead05d08517ddb545b55a19a8039111d59fbb280bb53ec84728aa1cad542d95/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d57656c636f6d652b746f2b6d792b4769744875622b70726f66696c65212663656e7465723d747275652677696474683d333830266865696768743d3435"  />
+  <img src="https://camo.githubusercontent.com/5ead05d08517ddb545b55a19a8039111d59fbb280bb53ec84728aa1cad542d95/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d57656c636f6d652b746f2b6d792b4769744875622b70726f66696c65212663656e7465723d747275652677696474683d333830266865696768743d3435" />
 </p>
 
-# Developer in Progress.
+# Developer in Progress 🚀
 
 <p align="center">
-  <img src="https://i.ibb.co/CQQfXMd/hmtl.png" alt="HTML" width="100" />
-  <img src="https://i.ibb.co/N6zYfMf/css.png" alt="CSS" width="100" />
-  <img src="https://i.ibb.co/pyMgt2y/js.png" alt="JavaScript" width="100" />
-  <img src="https://i.ibb.co/3NT27Hg/recat.png" alt="React.js" width="100" />
-  <img src="https://i.ibb.co/n3YgqD5/node.png" alt="Node.js" width="100" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="70" title="HTML" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="70" title="CSS" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" title="JavaScript" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="70" title="React.js" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" title="Next.js" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="70" title="Tailwind" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="70" title="Prisma" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" title="PostgreSQL" /></a>
 </p>
 
-## Most Used Languages
+<p align="center">
+  <i>“Coding is not just code, it’s creativity in action.”</i>
+</p>
 
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonofc&layout=compact)
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonofc&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonofc&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Fun Section
+
+- 🚀 Always learning new technologies  
+- 💡 Passionate about design + code  
+- 🐶 Proud tutor of Ralph  
+- ✝️ Christian & family-oriented  
